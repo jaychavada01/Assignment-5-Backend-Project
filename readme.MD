@@ -36,7 +36,7 @@ Assignment/
 ### 1️⃣ Clone the Repository
 ```sh
 git clone https://github.com/jaychavada01/Assignment-5-Backend-Project.git
-cd assignment5-backend/api
+cd assignment5-backend-project/api
 ```
 
 ### 2️⃣ Install Dependencies
